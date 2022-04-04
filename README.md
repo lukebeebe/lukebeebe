@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukebeebe
-- 👀 I’m interested in ... film and personal development
-- 🌱 I’m currently learning ... IBM Data Science on Coursera
-- 💞️ I’m looking to collaborate on ... something when I'm able enough
+- 👀 I’m interested in ... film and nature
+- 🌱 I’m currently learning ... Python for Everybody (Coursera class and book)
+- 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... message!
 
 <!---
