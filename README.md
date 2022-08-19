@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukebeebe
 - 👀 I’m interested in ... film and nature
-- 🌱 I’m currently learning ... Statistics and Mathematics at Rutgers
+- 🌱 I’m currently learning ... Statistics-Mathematics at Rutgers
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... message!
 
