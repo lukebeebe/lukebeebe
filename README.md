@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke Beebe</h1>
+
 - 🌱 I’m currently learning Bayesian Analysis, Stochastic Processes
 - 📝 I regularly write articles on [lukebeebe.com/data](lukebeebe.com/data)
 
