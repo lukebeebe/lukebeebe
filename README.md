@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Beebe</h1>
 
-- 🌱 I’m currently learning Bayesian Analysis, Stochastic Processes
-- 📝 I regularly write articles on [lukebeebe.com/data](lukebeebe.com/data)
+- 🌱 I’m learning NLP, Bayesian Analysis, Stochastic Processes
+- 📝 I write articles on [lukebeebe.com/data](lukebeebe.com/data)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukebeebe&show_icons=true&locale=en&layout=compact" alt="lukebeebe" /></p>
 
