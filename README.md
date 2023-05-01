@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lukebeebe
 - 👀 I’m interested in ... film and nature
 - 🌱 I’m currently learning ... Statistics-Mathematics at Rutgers
-- 💞️ I’m looking to collaborate on ... anything!
-- 📫 How to reach me ... message!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lukebeebe=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 lukebeebe/lukebeebe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
