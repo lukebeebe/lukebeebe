@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luke Beebe</h1>
 
 - 🌱 I’m learning NLP, Bayesian Analysis, Stochastic Processes
-- 📝 I write articles on [lukebeebe.com/data](lukebeebe.com/data)
-- 👨‍💻 I mainly work with Python and R, but I also know SQL, C++ and SAS
-- 🎥 For fun I write stories and shoot film
+- 📝 I write articles at lukebeebe.com/data
+- 👨‍💻 I work with Python and R, but I also know SQL, C++ and SAS
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukebeebe&show_icons=true&locale=en&layout=compact" alt="lukebeebe" /></p>
 
