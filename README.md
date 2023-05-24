@@ -3,7 +3,7 @@
 - 🌱 I’m learning Bayesian Analysis, Stochastic Processes
 - 👨‍💻 I work with Python and R, but I also know SQL, C++ and SAS
 - 🗒️ Check out my NLP project [Lyric to Genre](https://github.com/lukebeebe/Statistical-Learning/tree/main/Lyric%20to%20Genre%20Project)
-- 📊 I recently worked with my friend's [Spotify data](https://github.com/lukebeebe/Spotify-Data) for fun
+- 📊 I recently made a game with my friend's [Spotify data](https://github.com/lukebeebe/Spotify-Data)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukebeebe&show_icons=true&locale=en&layout=compact" alt="lukebeebe" /></p>
 
