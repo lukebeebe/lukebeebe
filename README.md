@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke Beebe</h1>
 
-- 🌱 I’m learning Bayesian Analysis, Stochastic Processes
+- 🌱 I’m learning CNNs within TensorFlow
 - 👨‍💻 I work with Python and R, but also know SQL, C++ and SAS
 - 🗒️ Check out my NLP project [Lyric to Genre](https://github.com/lukebeebe/Statistical-Learning/tree/main/Lyric%20to%20Genre%20Project)
 - 📊 I recently made a game with my friend's [Spotify data](https://github.com/lukebeebe/Spotify-Data)
